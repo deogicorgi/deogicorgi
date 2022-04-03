@@ -23,7 +23,8 @@ Backend 개발을 주력으로 하루하루 살아가는 평범한 개발자입�
 - **Framework** : Spring, Spring Boot, Spring MVC/Webflux, Spring Data JPA/R2DBC, Spring Security, Project Reactor, Django etc..
 
 --- 
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deogicorgi" style="float:left;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deogicorgi" style="float:left;" />
 <!--
 **deogicorgi/deogicorgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
