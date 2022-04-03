@@ -2,7 +2,7 @@
 
 
 
-#### 안녕하세요. 
+#### 안녕하세요 😄
 Backend 개발을 주력으로 하루하루 살아가는 평범한 개발자입니다.
 일을 시작한지 꽤나 되었는데 아직도 모르는게 너무 많아요. 공부합시다!
 
@@ -10,7 +10,7 @@ Backend 개발을 주력으로 하루하루 살아가는 평범한 개발자입�
 
 ---
 
-#### 저는 이런 기술들을 사용해요.
+#### 저는 이런 기술들을 사용해요 💬
 
 - **Language** : Java, Python, Kotlin, JavaScript, SQL
 - **Database** : MySql, MariaDB, Oracle, MSSQL, PostgeSQL
@@ -19,8 +19,6 @@ Backend 개발을 주력으로 하루하루 살아가는 평범한 개발자입�
 - **Framework** : Spring, Spring Boot, Spring MVC/Webflux, Spring Data JPA/R2DBC, Spring Security, Project Reactor, Django etc..
 
 ---
-
-#### 저는 이렇게 활동 해요.
 
 <!--START_SECTION:waka-->
 **저는 아침형 인간이에요. 🐤** 
