@@ -1,4 +1,5 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Wondeok%20Kang&fontSize=60&animation=fadeIn&fontAlignY=38&desc=a.k.a.%20Wade%20&descAlignY=61&descAlign=66&descSize=25)
+
 
 <!--
 **deogicorgi/deogicorgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
