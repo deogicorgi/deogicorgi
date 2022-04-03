@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Deogicorgi Readme
 
 on:
   schedule:
@@ -16,6 +16,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_LINES_OF_CODE : false
           SHOW_PROFILE_VIEWS : false
-          SHOW_TIMEZONE : false
           SHOW_SHORT_INFO : false
           SHOW_LOC_CHART : false
+          SHOW_LANGUAGE_PER_REPO: False
+          SHOW_PROJECTS : false
