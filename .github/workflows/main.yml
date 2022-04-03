@@ -21,3 +21,4 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: False
           SHOW_PROJECTS : false
           SHOW_TOTAL_CODE_TIME : false
+          LOCALE: "ko_KR"
