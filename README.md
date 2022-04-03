@@ -11,7 +11,7 @@ Backend 개발을 주력으로 하루하루 살아가는 평범한 개발자입�
 
 ---
 
-#### 저는 이런 기술들을 사용해요 💬
+#### ⚒️ 저는 이런 기술들을 사용해요
 
 - **Language** : Java, Python, Kotlin, JavaScript, SQL
 - **Database** : MySql, MariaDB, Oracle, MSSQL, PostgeSQL
