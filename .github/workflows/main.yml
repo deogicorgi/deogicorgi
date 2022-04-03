@@ -22,3 +22,4 @@ jobs:
           SHOW_PROJECTS : false
           SHOW_TOTAL_CODE_TIME : false
           LOCALE: "ko_KR"
+          SHOW_UPDATED_DATE : false
