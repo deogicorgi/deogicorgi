@@ -19,6 +19,9 @@ Backend 개발을 주력으로 하루하루 살아가는 평범한 개발자입�
 - **Framework** : Spring, Spring Boot, Spring MVC/Webflux, Spring Data JPA/R2DBC, Spring Security, Project Reactor, Django etc..
 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&&customColorList=4)
 <!--
 **deogicorgi/deogicorgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
