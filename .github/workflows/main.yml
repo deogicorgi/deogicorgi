@@ -20,3 +20,4 @@ jobs:
           SHOW_LOC_CHART : false
           SHOW_LANGUAGE_PER_REPO: False
           SHOW_PROJECTS : false
+          SHOW_TOTAL_CODE_TIME : false
