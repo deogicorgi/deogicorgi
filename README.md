@@ -20,7 +20,7 @@ Backend 개발을 주력으로 하루하루 살아가는 평범한 개발자입�
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 
 **I'm a Night 🦉** 
 
