@@ -18,7 +18,7 @@ Backend 개발을 주력으로 하루하루 살아가는 평범한 개발자입�
 - **NoSQL** : MongoDB, Couchbase, Redis
 - **Messaging Service** : Apache Kafka, RabbitMQ
 - **Framework** : Spring, Spring Boot, Spring MVC/Webflux, Spring Data JPA/R2DBC, Spring Security, Project Reactor, Django etc..
-
+- **Cloud** : AWS, GCP
 ---
 
 <!--
