@@ -8,7 +8,7 @@ Backend 개발을 주력으로 하루하루 살아가는 평범한 개발자입�
 
 저에게 궁금한 점이 있다면 이메일을 보내주세요. 
 
-***
+---
 
 #### 저는 이런 기술들을 사용해요.
 
@@ -18,6 +18,9 @@ Backend 개발을 주력으로 하루하루 살아가는 평범한 개발자입�
 - **Messaging Service** : Apache Kafka, RabbitMQ
 - **Framework** : Spring, Spring Boot, Spring MVC/Webflux, Spring Data JPA/R2DBC, Spring Security, Project Reactor, Django etc..
 
+---
+
+#### 저는 이렇게 활동 해요.
 
 <!--START_SECTION:waka-->
 
