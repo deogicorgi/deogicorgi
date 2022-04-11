@@ -9,9 +9,9 @@ Backend 개발을 주력으로 하루하루 살아가는 평범한 개발자입�
 
 저에게 궁금한 점이 있다면 이메일을 보내주세요. 
 
-blog : 
+<!-- blog : 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=deogicorgi)](https://velog.io/@deogicorgi) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=deogicorgi)](https://velog.io/@deogicorgi)  -->
 
 ---
 
